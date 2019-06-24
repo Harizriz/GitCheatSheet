@@ -56,7 +56,7 @@ stage all changes in `<directory>` for the next commit
 git add -p
 ```
 
-choose portions of a file to add to the next commit. use `a` to commmit all changes, `y` to stage the chunk, `n` to ignore the chunk, `s` to split it into smaller chunks, `e` to manually edit the chunk, and `q` to exit
+choose portions of a file to add to the next commit. use `A` to commmit all changes, `y` to stage the chunk, `n` to ignore the chunk, `s` to split it into smaller chunks, `e` to manually edit the chunk, and `q` to exit
 
 ## save your changes to the local repository
 
